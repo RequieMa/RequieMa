@@ -60,13 +60,6 @@ Toward a future science of totality. A perspective that reforms the way of under
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RequieMa&theme=onedark&hide_border=true&background=282c34&ring=e5c07b&fire=e5c07b&currStreakLabel=61afef&sideNums=abb2bf&currStreakNum=abb2bf&sideLabels=5c6370&dates=5c6370" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RequieMa/RequieMa/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RequieMa/RequieMa/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RequieMa/RequieMa/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ---
 
