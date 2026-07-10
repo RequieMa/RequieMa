@@ -95,13 +95,12 @@ Currently open:
 
 ## Connect
 
-<table width="100%">
-<tr><td>Email</td><td><a href="mailto:mazengou@gmail.com">mazengou@gmail.com</a></td></tr>
-<tr><td>Personal Site</td><td><a href="https://requiema.github.io">requiema.github.io</a></td></tr>
-<tr><td>dev.to</td><td><a href="https://dev.to/requiema">dev.to/requiema</a></td></tr>
-<tr><td>掘金</td><td><a href="https://juejin.cn/user/76300220645242">juejin.cn/user/76300220645242</a></td></tr>
-<tr><td>Gitee</td><td><a href="https://gitee.com/requiema">gitee.com/requiema</a></td></tr>
-<tr><td>知乎</td><td><a href="https://www.zhihu.com/people/consilivm">zhihu.com/people/consilivm</a></td></tr>
-<tr><td>Bilibili</td><td>镇魂曲麦</td></tr>
-<tr><td>公众号</td><td>镇魂曲麦</td></tr>
-</table>
+<div align="center">
+
+📧 [mazengou@gmail.com](mailto:mazengou@gmail.com) &nbsp;·&nbsp; 🌐 [requiema.github.io](https://requiema.github.io) &nbsp;·&nbsp; 📝 [dev.to/requiema](https://dev.to/requiema)
+
+🔖 [掘金](https://juejin.cn/user/76300220645242) &nbsp;·&nbsp; 📦 [Gitee](https://gitee.com/requiema) &nbsp;·&nbsp; 📖 [知乎](https://www.zhihu.com/people/consilivm)
+
+🎬 Bilibili · 镇魂曲麦 &nbsp;&nbsp; 📱 公众号 · 镇魂曲麦
+
+</div>
