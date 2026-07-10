@@ -90,12 +90,13 @@
 
 ## 联系
 
-<div align="center">
-
-📧 [mazengou@gmail.com](mailto:mazengou@gmail.com) &nbsp;·&nbsp; 🌐 [requiema.github.io](https://requiema.github.io) &nbsp;·&nbsp; 📝 [dev.to/requiema](https://dev.to/requiema)
-
-🔖 [掘金](https://juejin.cn/user/76300220645242) &nbsp;·&nbsp; 📦 [Gitee](https://gitee.com/requiema) &nbsp;·&nbsp; 📖 [知乎](https://www.zhihu.com/people/consilivm)
-
-🎬 Bilibili · 镇魂曲麦 &nbsp;&nbsp; 📱 公众号 · 镇魂曲麦
-
-</div>
+| | | |
+|---|---|---|
+| 📧 | Email | [mazengou@gmail.com](mailto:mazengou@gmail.com) |
+| 🌐 | 个人网站 | [requiema.github.io](https://requiema.github.io) |
+| 📝 | dev.to | [dev.to/requiema](https://dev.to/requiema) |
+| 🔖 | 掘金 | [juejin.cn/user/76300220645242](https://juejin.cn/user/76300220645242) |
+| 📦 | Gitee | [gitee.com/requiema](https://gitee.com/requiema) |
+| 📖 | 知乎 | [zhihu.com/people/consilivm](https://www.zhihu.com/people/consilivm) |
+| 🎬 | Bilibili | 镇魂曲麦 |
+| 📱 | 公众号 | 镇魂曲麦 |
