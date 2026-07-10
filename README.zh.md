@@ -65,7 +65,6 @@
 `Python` `C#` `Dart`
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RequieMa&show_icons=true&theme=apprentice&hide_border=true&bg_color=282c34&title_color=e5c07b&icon_color=61afef&text_color=abb2bf" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=RequieMa&theme=onedark&hide_border=true&background=282c34&ring=e5c07b&fire=e5c07b&currStreakLabel=61afef&sideNums=abb2bf&currStreakNum=abb2bf&sideLabels=5c6370&dates=5c6370" />
   <br/>
   <img src="https://raw.githubusercontent.com/RequieMa/RequieMa/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
