@@ -1,3 +1,5 @@
+<sub>🌐 <a href="README.md">English</a> · <b>中文</b></sub>
+
 <div align="center">
 
 # RequieMa
@@ -89,13 +91,13 @@
 
 ## 联系
 
-| | | |
-|---|---|---|
-| 📧 | Email | [mazengou@gmail.com](mailto:mazengou@gmail.com) |
-| 🌐 | 个人网站 | [requiema.github.io](https://requiema.github.io) |
-| 📝 | dev.to | [dev.to/requiema](https://dev.to/requiema) |
-| 🔖 | 掘金 | [juejin.cn/user/76300220645242](https://juejin.cn/user/76300220645242) |
-| 📦 | Gitee | [gitee.com/requiema](https://gitee.com/requiema) |
-| 📖 | 知乎 | [zhihu.com/people/consilivm](https://www.zhihu.com/people/consilivm) |
-| 🎬 | Bilibili | 镇魂曲麦 |
-| 📱 | 公众号 | 镇魂曲麦 |
+<table width="100%">
+<tr><td>Email</td><td><a href="mailto:mazengou@gmail.com">mazengou@gmail.com</a></td></tr>
+<tr><td>个人网站</td><td><a href="https://requiema.github.io">requiema.github.io</a></td></tr>
+<tr><td>dev.to</td><td><a href="https://dev.to/requiema">dev.to/requiema</a></td></tr>
+<tr><td>掘金</td><td><a href="https://juejin.cn/user/76300220645242">juejin.cn/user/76300220645242</a></td></tr>
+<tr><td>Gitee</td><td><a href="https://gitee.com/requiema">gitee.com/requiema</a></td></tr>
+<tr><td>知乎</td><td><a href="https://www.zhihu.com/people/consilivm">zhihu.com/people/consilivm</a></td></tr>
+<tr><td>Bilibili</td><td>镇魂曲麦</td></tr>
+<tr><td>公众号</td><td>镇魂曲麦</td></tr>
+</table>
