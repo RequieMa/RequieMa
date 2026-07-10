@@ -90,6 +90,8 @@
 
 ## 联系
 
+<div align="center">
+
 | | | |
 |---|---|---|
 | 📧 | Email | [mazengou@gmail.com](mailto:mazengou@gmail.com) |
@@ -100,3 +102,5 @@
 | 📖 | 知乎 | [zhihu.com/people/consilivm](https://www.zhihu.com/people/consilivm) |
 | 🎬 | Bilibili | 镇魂曲麦 |
 | 📱 | 公众号 | 镇魂曲麦 |
+
+</div>
